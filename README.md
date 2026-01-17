@@ -2,6 +2,8 @@
 
 Practical work samples for IT Operations / IT Administration roles focused on Google Workspace, access control, onboarding/offboarding, and basic automation.
 
+Built as a hands-on portfolio project; I’ll keep iterating with new scenarios, automation demos, and script improvements.
+
 ## Contents
 - 01-access-model-google-workspace/
   - Google Groups strategy for Shared Drives + permissions matrix
