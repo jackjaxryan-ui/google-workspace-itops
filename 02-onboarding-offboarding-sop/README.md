@@ -1,4 +1,3 @@
-# Access Model (Google Workspace)
 # Onboarding / Offboarding SOP
 
 Docs:
