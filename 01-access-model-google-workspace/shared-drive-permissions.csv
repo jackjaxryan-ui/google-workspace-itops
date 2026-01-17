@@ -1,0 +1,6 @@
+shared_drive,group,permission_level,purpose
+Media - Active,gws-sd-media-owners,Manager,Own and govern the drive
+Media - Active,gws-sd-media-managers,Content manager,Manage content and structure
+Media - Active,gws-sd-media-contributors,Contributor,Create/edit files
+Media - Active,gws-sd-media-viewers,Viewer,Read-only access
+Media - Archive,gws-sd-media-archive-viewers,Viewer,Read-only access to archived content
