@@ -1,1 +1,0 @@
-# Access Model (Google Workspace)
